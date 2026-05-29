@@ -12,7 +12,7 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 
-```
+```python
 try:
     # Taking 3 elements input from the user
     L = []
